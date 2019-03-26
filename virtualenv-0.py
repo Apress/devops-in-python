@@ -1,0 +1,1 @@
+$ source /home/name/venvs/my-special-env/bin/activate

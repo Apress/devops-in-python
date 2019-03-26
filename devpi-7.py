@@ -1,0 +1,1 @@
+$ devpi index --create root/pypi

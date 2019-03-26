@@ -1,0 +1,1 @@
+setuptools.find_packages(include=["my_package*"])

@@ -1,0 +1,1 @@
+$ ansible localhost -a "/bin/echo hello world"

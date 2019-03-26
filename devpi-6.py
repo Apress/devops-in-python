@@ -1,0 +1,1 @@
+$ devpi index --delete root/pypi

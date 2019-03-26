@@ -1,0 +1,1 @@
+executor = seashore.Executor(seashore.Shell())

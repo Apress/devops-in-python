@@ -1,0 +1,1 @@
+>>> deprecated = ["md5_crypt", "des_crypt"]

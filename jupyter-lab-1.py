@@ -1,0 +1,1 @@
+jupyter kernelspec install $DIRECTORY/jupyter/kernels/my-special-env

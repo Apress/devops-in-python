@@ -1,0 +1,1 @@
+$ ansible -i simple.inv all -m ping

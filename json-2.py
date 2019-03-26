@@ -1,0 +1,1 @@
+json.dumps(thing, sort_keys=True, indent=4)

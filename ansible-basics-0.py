@@ -1,0 +1,1 @@
+$ ansible localhost -m ping

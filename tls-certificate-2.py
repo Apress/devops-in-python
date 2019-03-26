@@ -1,0 +1,1 @@
+>>> public_key = private_key.public_key()

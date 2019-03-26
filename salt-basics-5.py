@@ -1,0 +1,1 @@
+$ salt '*' cmd.run 'mkdir /src'

@@ -1,0 +1,1 @@
+>>> hashes = ["argon2", "pbkdf2_sha256", "md5_crypt", "des_crypt"]

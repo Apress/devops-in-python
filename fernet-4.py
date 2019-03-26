@@ -1,0 +1,1 @@
+>>> frn.decrypt(encrypted, ttl=5)

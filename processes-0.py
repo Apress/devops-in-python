@@ -1,0 +1,1 @@
+subprocess.check_call(["usermod", "-G", "docker", "some-user"])

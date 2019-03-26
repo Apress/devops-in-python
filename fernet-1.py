@@ -1,0 +1,1 @@
+>>> frn = fernet.Fernet(k)

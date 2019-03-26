@@ -1,0 +1,1 @@
+>>> filename.endswith((".tgz", ".tar.gz"))
